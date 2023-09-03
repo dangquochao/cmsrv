@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "bcsTCb+jlMEpTWNl/KpLBn"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "muiKHoan",
+      "rect": [
+        6,
+        0,
+        89,
+        94
+      ],
+      "offset": [
+        0.5,
+        3
+      ],
+      "originalSize": [
+        100,
+        100
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]
